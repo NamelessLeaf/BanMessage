@@ -19,5 +19,10 @@ whitelist.reason: "&cStill underway maintenance."
 ## {reason} - When a user get's banned for a specific reason, it'll display by using {reason} variable.
 ## & - For color code.
 
-banned.message: "&cYou have been banned By NamelessAntiCheat.{line}&bReason: &3{reason}" ##Ban.
-no.banned.reason.message: "&cYou have been banned!" ##Without the ban reason.
+
+#DONT EDIT 
+banned.message: "&cYou have been banned .{line}&bReason: &3{reason}" ##Ban dont edit.
+#DONT EDIT BANNED.MESSAGW
+
+# EDIT THIS ONE NOT BANNED.MESSAGE
+no.banned.reason.message: "&cYou have been banned!" ##Without the ban reason edit this one.
