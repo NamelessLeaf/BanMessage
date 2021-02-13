@@ -1,0 +1,5 @@
+name: BanMessage
+main: NamelessLeaf\BanMessage\Main
+version: 1.0.0-BETA
+api: [3.17.2]
+author: NamelessLeaf
